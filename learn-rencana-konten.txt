@@ -1,0 +1,7 @@
+Rencana konten Aldi :
+- Membuat project Node JS
+- Membuat project Online shop menggunakan API
+* Menggunakan laravel sebagai framework PHP
+* Dan menggunakan node js sebagai tambahannya (walaupun bingung)
+- Belajar Git & GitHub
+- Belajar restful API
