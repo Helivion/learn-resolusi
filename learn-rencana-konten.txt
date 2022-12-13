@@ -1,0 +1,5 @@
+Rencana konten Aldi :
+- Membuat project Node JS
+- Membuat project Online shop menggunakan API
+- Belajar Git & GitHub
+- Belajar restful API
